@@ -4,6 +4,12 @@ SmartDiab is a machine learning-based web application that predicts the likeliho
 
 ---
 
+## 🌍 Live Demo  
+🔗 **Public URL:** [https://smartdiab.streamlit.app/](https://smartdiab-wkwidxfpbttxv67p2m5ek5.streamlit.app/)
+
+---
+
+
 ## 🚀 Features
 - Predicts diabetes risk using ML models  
 - Clean and user-friendly Streamlit interface  
